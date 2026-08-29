@@ -43,11 +43,8 @@ npx serve .   # or: python3 -m http.server 8000
 
 ## 🛠 Roadmap
 
-- [x] 5 SEO-ready pages with WhatsApp booking flow
-- [ ] Add `css/`, `js/`, `images/` (referenced but not yet committed)
+- [ ] 5 SEO-ready pages with WhatsApp booking flow
+- [ ] Add `css/`, `js/`, `images/` 
 - [ ] Company email domain + live social links
 - [ ] Analytics, lead tracking & monthly progress updates
 
-## 📞 Contact
-
-266/1, Senpara Parbata, Mirpur-10, Dhaka-1216 · 📱 +880 1711-956298 · ✉️ ks.ritaplas@gmail.com
